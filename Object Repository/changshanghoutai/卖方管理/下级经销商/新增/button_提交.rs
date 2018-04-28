@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>button_提交</name>  
+    <tag/>  
+    <elementGuidId>52e09ed8-3335-11e8-bece-408d5ca59395</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>button</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>//*[@id=&quot;form1&quot;]/div[2]/div[22]/div[2]/button</value>    
+    </webElementProperties> 
+</WebElementEntity>

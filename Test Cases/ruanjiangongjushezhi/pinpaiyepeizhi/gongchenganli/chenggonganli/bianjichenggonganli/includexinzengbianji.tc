@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/工程案例/成功案例/新增、编辑include</description>
+   <name>includexinzengbianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd976ddd-1eb2-4383-afb4-279f889d8236</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 2)</defaultValue>
+      <description></description>
+      <id>41eae773-d672-40f8-82c8-1ea91f37ab0d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

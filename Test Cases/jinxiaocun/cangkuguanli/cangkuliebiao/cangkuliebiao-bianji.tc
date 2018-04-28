@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cangkuliebiao-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e39ea4b-b886-4bcc-9281-5a7aea7ff230</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库名称', 2)</defaultValue>
+      <description>仓库名称</description>
+      <id>5aff3602-28e5-11e8-86d9-50af736c2359</id>
+      <masked>true</masked>
+      <name>cangkumingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库编号', 2)</defaultValue>
+      <description>仓库编号</description>
+      <id>4bbdcb52-28e6-11e8-856f-50af736c2359</id>
+      <masked>true</masked>
+      <name>cangkubianhao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('详细地址', 2)</defaultValue>
+      <description>详细地址</description>
+      <id>858dfa76-28e6-11e8-9be2-50af736c2359</id>
+      <masked>true</masked>
+      <name>xiangxidizhi</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('联系电话', 2)</defaultValue>
+      <description>联系电话</description>
+      <id>976e6be8-28e6-11e8-b68e-50af736c2359</id>
+      <masked>true</masked>
+      <name>lianxidianhua</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('备注', 2)</defaultValue>
+      <description>备注</description>
+      <id>a694bd5e-28e6-11e8-ba9f-50af736c2359</id>
+      <masked>true</masked>
+      <name>beizhu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库类型名称', 2)</defaultValue>
+      <description></description>
+      <id>6007d2dd-e66a-453b-86ae-b1a2368d8de5</id>
+      <masked>false</masked>
+      <name>cangkuleixingmingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库名称', 1)</defaultValue>
+      <description>新建时写的名称</description>
+      <id>d12b75e0-5702-4deb-937d-a7a9e565bfd1</id>
+      <masked>false</masked>
+      <name>xinjiancangkumingcheng</name>
+   </variable>
+</TestCaseEntity>

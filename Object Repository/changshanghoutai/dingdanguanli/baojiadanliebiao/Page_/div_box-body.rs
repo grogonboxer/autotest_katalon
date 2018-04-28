@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_box-body</name>
+   <tag></tag>
+   <elementGuidId>7d185580-0f1a-49da-b732-1bc8f1e7a41b</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data-list&quot;)/div[@class=&quot;row data-list exportTbody&quot;]/div[@class=&quot;col-md-12 singleinfor&quot;]/div[@class=&quot;box box-solid&quot;]/div[@class=&quot;box-body&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-body</value>
+   </webElementProperties>
+</WebElementEntity>

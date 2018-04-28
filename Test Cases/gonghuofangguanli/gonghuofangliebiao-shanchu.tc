@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/供货方管理/供货方列表-编辑</description>
+   <name>gonghuofangliebiao-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37631a02-24bb-4b01-88b8-b8b2d3810dbf</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方账号', 1)</defaultValue>
+      <description></description>
+      <id>bb415332-301f-4f47-b103-9721cbd4583a</id>
+      <masked>false</masked>
+      <name>zhanghao</name>
+   </variable>
+</TestCaseEntity>

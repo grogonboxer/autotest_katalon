@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/基本设置/二级分类 启用,禁用</description>
+   <name>jibenshezhi-erji-switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd8f7734-d627-43ef-9cda-8a66e1d4e437</testCaseGuid>
+</TestCaseEntity>

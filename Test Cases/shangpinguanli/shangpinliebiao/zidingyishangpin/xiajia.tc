@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/下架</description>
+   <name>xiajia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3754e796-05ea-4eae-9ef5-df7d62e343e0</testCaseGuid>
+</TestCaseEntity>

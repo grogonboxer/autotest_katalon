@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/查看详情/进入查看详情</description>
+   <name>chakanxiangqing_jinru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6d96592-7b21-4ae0-bfe3-0091a9dbc700</testCaseGuid>
+</TestCaseEntity>

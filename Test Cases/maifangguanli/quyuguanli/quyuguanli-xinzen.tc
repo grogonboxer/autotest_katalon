@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/新增区域</description>
+   <name>quyuguanli-xinzen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8380a1c7-cd05-4ee7-8b13-9bd6a60058d9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/区域信息').getValue('名称', 1)</defaultValue>
+      <description></description>
+      <id>7cfb41a8-2c0f-4da6-8926-7260b03b3e05</id>
+      <masked>false</masked>
+      <name>area_name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/区域信息').getValue('说明', 1)</defaultValue>
+      <description></description>
+      <id>6b7818b2-d8d8-4ee1-b77e-e08f3caa5f2b</id>
+      <masked>false</masked>
+      <name>instructions</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('省', 1)</defaultValue>
+      <description></description>
+      <id>e314b2d6-07c3-4442-b2b8-afe8cb120e50</id>
+      <masked>false</masked>
+      <name>province</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('市', 1)</defaultValue>
+      <description></description>
+      <id>27307216-2f32-4eae-b1f9-2e11c1e2b04c</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('区', 1)</defaultValue>
+      <description></description>
+      <id>a2dd3413-8b33-478c-a8fb-47ec9bde8c78</id>
+      <masked>false</masked>
+      <name>area</name>
+   </variable>
+</TestCaseEntity>

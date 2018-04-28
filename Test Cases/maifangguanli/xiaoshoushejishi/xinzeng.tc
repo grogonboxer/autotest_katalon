@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/销售设计师/新增销售设计师</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ae3ab59-85d8-45c0-905c-cd9027abfcfa</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('用户姓名', 1)</defaultValue>
+      <description></description>
+      <id>e38c39e4-3bbf-11e8-9ae9-50af736c2359</id>
+      <masked>false</masked>
+      <name>yonghuxingming</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('用户账号', 1)</defaultValue>
+      <description></description>
+      <id>79180c52-4858-44e2-bdf9-fcaf30a24b9d</id>
+      <masked>false</masked>
+      <name>yonghuzhanghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>fcbb0ccc-3bbf-11e8-a0d9-50af736c2359</id>
+      <masked>false</masked>
+      <name>mima</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('手机号', 1)</defaultValue>
+      <description></description>
+      <id>23d51830-1787-49c7-851a-2db563c4e003</id>
+      <masked>false</masked>
+      <name>shoujihao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('电子邮箱', 1)</defaultValue>
+      <description></description>
+      <id>171c3af0-3bc0-11e8-8f7a-50af736c2359</id>
+      <masked>false</masked>
+      <name>dianziyouxiang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('折扣', 1)</defaultValue>
+      <description></description>
+      <id>21488d64-3bc0-11e8-af41-50af736c2359</id>
+      <masked>false</masked>
+      <name>zhekou</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('身份证号', 1)</defaultValue>
+      <description></description>
+      <id>2e8c677a-3bc0-11e8-8b0b-50af736c2359</id>
+      <masked>false</masked>
+      <name>shenfenzhenghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('年龄', 1)</defaultValue>
+      <description></description>
+      <id>3c2c516c-3bc0-11e8-89b5-50af736c2359</id>
+      <masked>false</masked>
+      <name>nianling</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('简介', 1)</defaultValue>
+      <description></description>
+      <id>48e05938-3bc0-11e8-8e29-50af736c2359</id>
+      <masked>false</masked>
+      <name>jianjie</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('签名', 1)</defaultValue>
+      <description></description>
+      <id>87da1200-3bc0-11e8-a833-50af736c2359</id>
+      <masked>false</masked>
+      <name>qianming</name>
+   </variable>
+</TestCaseEntity>

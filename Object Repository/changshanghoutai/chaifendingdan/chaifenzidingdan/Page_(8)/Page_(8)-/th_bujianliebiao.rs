@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_bujianliebiao</name>
+   <tag></tag>
+   <elementGuidId>10a820cc-b523-41a4-a21a-1315aab0a8ea</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;nav-tabs-custom&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;box box-solid&quot;]/div[@class=&quot;break-order&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/thead[1]/tr[2]/th[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>部件名称</value>
+   </webElementProperties>
+</WebElementEntity>

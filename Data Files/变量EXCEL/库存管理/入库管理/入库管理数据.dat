@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>	
+   	<description/>	
+   	<name>入库管理数据</name>	
+   	<tag/>	
+   	<containsHeaders>true</containsHeaders>	
+   	<csvSeperator/>	
+   	<dataFileGUID>a691ed98-28f2-11e8-8e80-50af736c2359</dataFileGUID>	
+   	<dataSourceUrl>Data Files/变量EXCEL/库存管理/入库管理/入库管理.xlsx</dataSourceUrl>	
+   	<driver>ExcelFile</driver>	
+   	<isInternalPath>true</isInternalPath>	
+   	<query/>	
+   	<secureUserAccount>false</secureUserAccount>	
+   	<sheetName>Sheet1</sheetName>	
+   	<usingGlobalDBSetting>false</usingGlobalDBSetting>	
+</DataFileEntity>

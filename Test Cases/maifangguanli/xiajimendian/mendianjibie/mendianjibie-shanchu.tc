@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/门店级别/删除</description>
+   <name>mendianjibie-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3aa326-cbaf-4d76-a712-722633f8491b</testCaseGuid>
+</TestCaseEntity>

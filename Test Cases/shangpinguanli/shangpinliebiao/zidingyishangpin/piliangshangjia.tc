@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/批量上架</description>
+   <name>piliangshangjia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2a76330-297e-48c1-b43e-6efbca2a22b4</testCaseGuid>
+</TestCaseEntity>

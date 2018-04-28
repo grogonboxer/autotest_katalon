@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>gongweilingbujian-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c03ce608-d401-4a3c-81ee-19eae359fc8c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('New Test Data').getValue('路径', 2)</defaultValue>
+      <description></description>
+      <id>d4e0ce56-50b0-416d-93e8-f55337c5f38b</id>
+      <masked>false</masked>
+      <name>bujiantupian</name>
+   </variable>
+</TestCaseEntity>

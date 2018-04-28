@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>研发管理/工艺管理/板式样式/搜索、刷新、列表操作</description>
+   <name>banshiyangshi-gongneng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>553eb778-2064-4841-9cff-44a9806a6544</testCaseGuid>
+</TestCaseEntity>

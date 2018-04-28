@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/生产批次管理/生产任务单列表-新增</description>
+   <name>shengchanrenwudanliebiao-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4fefb50-229f-4e21-ad6b-5e97d83e8f90</testCaseGuid>
+</TestCaseEntity>

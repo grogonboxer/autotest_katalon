@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/打开区域管理的页面</description>
+   <name>quyuguanli-dakaiyemain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa1d8df-ee5d-49c3-9054-82fffdf5a74e</testCaseGuid>
+</TestCaseEntity>

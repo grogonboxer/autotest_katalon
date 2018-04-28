@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>a_基本设置</name>	
+   	<tag/>	
+   	<elementGuidId>8f77ce98-3b94-11e8-aa35-005056c00008</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>a</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>/html/body/aside/section/ul/li[4]/ul/li[1]/a</value>		
+   	</webElementProperties>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>text</name>      
+            <type>Main</type>    
+            <value>基本设置</value>    
+      </webElementProperties>
+</WebElementEntity>

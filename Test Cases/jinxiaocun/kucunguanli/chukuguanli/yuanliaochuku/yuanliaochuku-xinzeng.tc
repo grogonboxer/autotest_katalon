@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>yuanliaochuku-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8728bb6-4acd-4b42-a13c-e0d3014d98b3</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/库存管理/出库管理/出库管理数据').getValue('相关采购单号', 1)</defaultValue>
+      <description>相关采购单号</description>
+      <id>03db9a4a-28f2-11e8-9576-50af736c2359</id>
+      <masked>true</masked>
+      <name>xiangguancaigoudanhao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/库存管理/出库管理/出库管理数据').getValue('出库数量', 1)</defaultValue>
+      <description>出库数量</description>
+      <id>17f83b0a-28f2-11e8-b180-50af736c2359</id>
+      <masked>true</masked>
+      <name>chukushuliang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/库存管理/出库管理/出库管理数据').getValue('出库备注', 1)</defaultValue>
+      <description>出库备注</description>
+      <id>26f02e74-28f2-11e8-bb11-50af736c2359</id>
+      <masked>true</masked>
+      <name>chukubeizhu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/库存管理/出库管理/出库管理数据').getValue('总备注', 1)</defaultValue>
+      <description>总备注</description>
+      <id>32a1393e-28f2-11e8-857c-50af736c2359</id>
+      <masked>true</masked>
+      <name>zongbeizhu</name>
+   </variable>      
+</TestCaseEntity>

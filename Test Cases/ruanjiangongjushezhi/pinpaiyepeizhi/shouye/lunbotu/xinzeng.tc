@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/编辑轮播图/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33337ffc-ab1c-4c6f-97bd-e45310e3d9c0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>cf2f3992-a33a-46ff-936b-deb6b06d932a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

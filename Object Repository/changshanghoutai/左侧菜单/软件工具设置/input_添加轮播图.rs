@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>input_添加轮播图</name>	
+   	<tag/>	
+   	<elementGuidId>62a56b82-3720-11e8-afd0-b8e8562fba4a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>tag</name>     
+            <type>Main</type>    
+            <value>input</value>    
+      </webElementProperties> 
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>xpath</name>      
+            <type>Main</type>    
+            <value>//*[@id="addBanner"]/div/div/div[2]/div/div/div/div[1]/div[2]/input</value>    
+      </webElementProperties> 
+</WebElementEntity>

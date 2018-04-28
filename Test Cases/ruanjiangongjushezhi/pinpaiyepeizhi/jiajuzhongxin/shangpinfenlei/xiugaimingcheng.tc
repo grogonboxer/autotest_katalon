@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/家具中心/进入商品分类/修改名称</description>
+   <name>xiugaimingcheng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae41a5b6-06f9-4a2b-b08e-fa28a3bdf000</testCaseGuid>
+</TestCaseEntity>

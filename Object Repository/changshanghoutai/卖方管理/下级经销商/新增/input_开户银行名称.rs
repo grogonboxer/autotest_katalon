@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>input_开户银行名称</name> 
+    <tag/>  
+    <elementGuidId>8838bf54-3334-11e8-a874-408d5ca59395</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>input</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>//*[@id=&quot;form1&quot;]/div[2]/div[15]/div/input</value>    
+    </webElementProperties> 
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>input_银行对公账户</name> 
+    <tag/>  
+    <elementGuidId>b2848b8c-3334-11e8-be57-408d5ca59395</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>input</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>//*[@id=&quot;form1&quot;]/div[2]/div[17]/div/input</value>    
+    </webElementProperties> 
+</WebElementEntity>

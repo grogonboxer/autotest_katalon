@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>a_产品分组</name>	
+   	<tag/>	
+   	<elementGuidId>6a058b4a-36e0-11e8-9238-005056c00008</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>a</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li/ul[@class=&quot;treeview-menu menu-open&quot;]/li/a[1]</value>	
+   	</webElementProperties>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>text</name>     
+            <type>Main</type>    
+            <value>产品分组</value>     
+      </webElementProperties> 
+</WebElementEntity>

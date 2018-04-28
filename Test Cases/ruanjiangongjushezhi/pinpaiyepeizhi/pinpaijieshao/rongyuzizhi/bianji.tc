@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍/进入荣誉资质/编辑</description>
+   <name>bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c6ab482-ce28-4e4f-9973-0494ab996703</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 3)</defaultValue>
+      <description></description>
+      <id>b07468cd-7631-47da-9019-b569b517f6db</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

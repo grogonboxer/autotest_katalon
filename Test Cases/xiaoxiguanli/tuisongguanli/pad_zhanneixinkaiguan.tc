@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/pad_站内信开关</description>
+   <name>pad_zhanneixinkaiguan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97ad26e0-0885-4c68-80d2-937397e49485</testCaseGuid>
+</TestCaseEntity>

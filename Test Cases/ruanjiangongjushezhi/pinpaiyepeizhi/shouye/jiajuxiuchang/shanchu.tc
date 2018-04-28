@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/家具秀场/删除</description>
+   <name>shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b20685cf-1d75-45a6-b1a7-8a6c0a604416</testCaseGuid>
+</TestCaseEntity>

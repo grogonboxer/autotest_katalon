@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>select_编辑市</name> 
+    <tag/>  
+    <elementGuidId>eb893f8a-3303-11e8-852e-408d5ca59395</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>select</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>/html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div/div[2]/select</value>    
+    </webElementProperties> 
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>input_外墙图片</name>	
+   	<tag/>	
+   	<elementGuidId>9f4b70ca-2f40-11e8-8e55-50af736c2359</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>input</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>//*[@id=&quot;plane&quot;]/div/div/div[2]/div[2]/div[1]/div/input</value>		
+   	</webElementProperties>	
+</WebElementEntity>

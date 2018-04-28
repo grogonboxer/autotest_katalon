@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/进入热销商品</description>
+   <name>jinrurexiaoshangpin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab799b0b-d9fc-42ed-8343-ccabc550b1b8</testCaseGuid>
+</TestCaseEntity>

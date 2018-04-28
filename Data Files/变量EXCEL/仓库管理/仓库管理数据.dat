@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>	
+   	<description/>	
+   	<name>仓库管理数据</name>	
+   	<tag/>	
+   	<containsHeaders>true</containsHeaders>	
+   	<csvSeperator/>	
+   	<dataFileGUID>c6d1b564-28e5-11e8-9c4b-50af736c2359</dataFileGUID>	
+   	<dataSourceUrl>Data Files/变量EXCEL/仓库管理/仓库管理.xlsx</dataSourceUrl>	
+   	<driver>ExcelFile</driver>	
+   	<isInternalPath>true</isInternalPath>	
+   	<query/>	
+   	<secureUserAccount>false</secureUserAccount>	
+   	<sheetName>Sheet1</sheetName>	
+   	<usingGlobalDBSetting>false</usingGlobalDBSetting>	
+</DataFileEntity>

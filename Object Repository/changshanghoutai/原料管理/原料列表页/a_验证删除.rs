@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_验证删除</name>
+   <tag></tag>
+   <elementGuidId>0cc7abc7-6533-46ab-8a95-26bcb413f590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;data-list&quot;]/div[2]/table/tbody/tr[1]/td[3]/a[count(. | //a[(contains(text(), '自动化测试-木质封边条改名') or contains(., '自动化测试-木质封边条改名')) and @class = 'btn btn-flat bg-olive left store-hide']) = count(//a[(contains(text(), '自动化测试-木质封边条改名') or contains(., '自动化测试-木质封边条改名')) and @class = 'btn btn-flat bg-olive left store-hide'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;data-list&quot;]/div[2]/table/tbody/tr[1]/td[3]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>自动化测试-木质封边条改名</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/基本设置/三级分类,打开页面</description>
+   <name>jibenshezhi-sanji-dakaiyemian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cfaca8f-4921-49bd-9536-95540f9271cc</testCaseGuid>
+</TestCaseEntity>

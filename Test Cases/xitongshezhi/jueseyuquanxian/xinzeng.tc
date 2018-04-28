@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/角色与权限/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e475c91d-8fdd-41e3-a692-540c4857f3ce</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('角色名称', 1)</defaultValue>
+      <description></description>
+      <id>f6ca5925-2b17-41ad-9a78-00822650abb2</id>
+      <masked>false</masked>
+      <name>juesemingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('描述', 1)</defaultValue>
+      <description></description>
+      <id>52a808c8-b741-4c44-b29e-ed84ed5c9ab9</id>
+      <masked>false</masked>
+      <name>miaoshu</name>
+   </variable>
+</TestCaseEntity>

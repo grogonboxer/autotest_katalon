@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>   
+      <description/> 
+      <name>资质文件资源文件</name> 
+      <tag/>   
+      <containsHeaders>true</containsHeaders>   
+      <csvSeperator/>   
+      <dataFileGUID>8b9a0cdc-36e4-11e8-8b76-b8e8562fba4a</dataFileGUID> 
+      <dataSourceUrl>Data Files/图片资源EXCEL/资质文件.xlsx</dataSourceUrl>  
+      <driver>ExcelFile</driver> 
+      <isInternalPath>true</isInternalPath>  
+      <query/> 
+      <secureUserAccount>false</secureUserAccount> 
+      <sheetName>Sheet1</sheetName> 
+      <usingGlobalDBSetting>false</usingGlobalDBSetting> 
+</DataFileEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/授权商品列表</description>
+   <name>shouquanshangpinlieibiao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c98503c2-8b4e-4b27-933b-f06a75494dcb</testCaseGuid>
+</TestCaseEntity>

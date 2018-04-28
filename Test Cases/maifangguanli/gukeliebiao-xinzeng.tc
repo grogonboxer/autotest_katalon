@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/买方管理/客户列表－新增</description>
+   <name>gukeliebiao-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b77d7198-c018-410e-b045-164a5c0be28a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('顾客简称', 1)</defaultValue>
+      <description></description>
+      <id>c8d5fece-39ec-4186-8063-5f52f4d7bb59</id>
+      <masked>false</masked>
+      <name>shortname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('顾客全称', 1)</defaultValue>
+      <description></description>
+      <id>0562ff8a-0a03-4344-9b07-a1b8b7c79cfd</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+</TestCaseEntity>

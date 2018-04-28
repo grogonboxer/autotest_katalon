@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>input_收货人</name>	
+   	<tag/>	
+   	<elementGuidId>d85567c2-37db-11e8-aa71-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>input</value>		
+   	</webElementProperties>	
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>type</name>
+         <type>Main</type>
+         <value>text</value>
+      </webElementProperties>
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>id(&quot;addnew&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@id=&quot;data-list&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control&quot;]</value>		
+   	</webElementProperties>	
+</WebElementEntity>

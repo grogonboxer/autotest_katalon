@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>div_编辑成功提示</name>	
+   	<tag/>	
+   	<elementGuidId>a6caaad0-370d-11e8-a679-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>tag</name>
+         <type>Main</type>
+         <value>div</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>alert alert-success alert-tip alert-top-center</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>role</name>
+         <type>Main</type>
+         <value>alert</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>text</name>
+         <type>Main</type>
+         <value>×更新成功</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>xpath</name>
+         <type>Main</type>
+         <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;alert alert-success alert-tip alert-top-center&quot;]</value>
+      </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_跳转链接</name>
+   <tag></tag>
+   <elementGuidId>259769f5-d369-4f88-a946-dc1ca82e1fef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+          <value/>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modelbanner&quot;]/div/div/div[2]/div[4]/input</value>
+   </webElementProperties>
+</WebElementEntity>

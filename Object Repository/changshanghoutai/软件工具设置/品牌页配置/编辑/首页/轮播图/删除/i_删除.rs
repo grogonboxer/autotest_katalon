@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>i_删除</name> 
+    <tag/>  
+    <elementGuidId>83c79430-332d-11e8-ae2f-acbc328db6eb</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>store-hide</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;data-list&quot;]/div/div[2]/div[2]/div[1]/div[4]/i[2]</value>
+   </webElementProperties>
+</WebElementEntity>

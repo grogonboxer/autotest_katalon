@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍/进入荣誉资质/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b43b23b-97bd-4526-a543-43b9b9030d3f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>20ba93db-519c-4567-bec3-87be1f54a427</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

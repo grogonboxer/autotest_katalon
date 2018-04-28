@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/web_站内信开关</description>
+   <name>web_zhanneixinkaiguan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f0be3b-fb33-4179-b19d-8d2e54c45231</testCaseGuid>
+</TestCaseEntity>

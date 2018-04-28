@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>quyushezhi-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87e863e1-03a8-4906-9990-a9d15ded7199</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('区域名称', 2)</defaultValue>
+      <description>区域名称</description>
+      <id>685ccd2e-28eb-11e8-a7c8-50af736c2359</id>
+      <masked>true</masked>
+      <name>quyumingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('区域说明', 2)</defaultValue>
+      <description>区域说明</description>
+      <id>6b8be48a-28eb-11e8-aa29-50af736c2359</id>
+      <masked>true</masked>
+      <name>quyushuoming</name>
+   </variable>
+</TestCaseEntity>

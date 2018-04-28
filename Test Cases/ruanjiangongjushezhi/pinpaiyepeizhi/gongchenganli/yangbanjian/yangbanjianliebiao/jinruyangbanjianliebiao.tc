@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>进入样板间列表</description>
+   <name>jinruyangbanjianliebiao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f52abf1a-9c94-4c77-8f38-20c7f44694a3</testCaseGuid>
+</TestCaseEntity>

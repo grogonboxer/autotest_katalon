@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>	
+   	<description/>	
+   	<name>个人资料</name>	
+   	<tag/>	
+   	<containsHeaders>true</containsHeaders>	
+   	<csvSeperator/>	
+   	<dataFileGUID>dd2a9626-3bca-11e8-9a90-50af736c2359</dataFileGUID>	
+   	<dataSourceUrl>Data Files/变量EXCEL/个人设置/个人资料.xlsx</dataSourceUrl>	
+   	<driver>ExcelFile</driver>	
+   	<isInternalPath>true</isInternalPath>	
+   	<query/>	
+   	<secureUserAccount>false</secureUserAccount>	
+   	<sheetName>Sheet1</sheetName>	
+   	<usingGlobalDBSetting>false</usingGlobalDBSetting>	
+</DataFileEntity>

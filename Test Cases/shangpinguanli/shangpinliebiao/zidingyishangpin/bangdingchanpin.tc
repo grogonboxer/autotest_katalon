@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/绑定产品</description>
+   <name>bangdingchanpin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1927c14f-0727-43ce-b19b-f3ab4022f8cf</testCaseGuid>
+</TestCaseEntity>

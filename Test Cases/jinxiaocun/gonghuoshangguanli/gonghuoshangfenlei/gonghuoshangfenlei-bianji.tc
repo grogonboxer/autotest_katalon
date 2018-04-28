@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>gonghuoshangfenlei-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca578567-eb42-46b2-85cf-cd47e96dbc48</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('分类名称', 2)</defaultValue>
+      <description>分类名称</description>
+      <id>d6260de6-28ed-11e8-9b48-50af736c2359</id>
+      <masked>true</masked>
+      <name>fenleimingcheng</name>
+   </variable>
+</TestCaseEntity>

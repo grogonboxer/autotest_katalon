@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/买方管理/客户列表－详情</description>
+   <name>gukeliebiao-xiangqing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>221ce5f9-d8d3-4a99-8438-b98c9817efb7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('顾客简称', 1)</defaultValue>
+      <description></description>
+      <id>90d39a7a-29b4-4c62-a6f4-1ef035abdc11</id>
+      <masked>false</masked>
+      <name>shortname</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>i_筛选按钮</name> 
+    <tag/>  
+    <elementGuidId>9b5b94f8-33fc-11e8-9292-408d5ca59395</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>i</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>//*[@id=&quot;data-list&quot;]/table/thead/tr/th[5]/span[2]/i</value>    
+    </webElementProperties> 
+</WebElementEntity>

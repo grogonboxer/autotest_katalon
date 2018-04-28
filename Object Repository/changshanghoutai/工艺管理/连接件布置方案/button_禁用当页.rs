@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>button_禁用当页</name>	
+   	<tag/>	
+   	<elementGuidId>7af75e2e-3325-11e8-96be-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>button</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>//*[@id=&quot;data-list&quot;]/div[1]/div/button[1]</value>		
+   	</webElementProperties>	
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>contains</matchCondition>
+         <name>text</name>
+         <type>Main</type>
+         <value>禁用当页</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>btn btn-flat bg-maroon</value>
+      </webElementProperties>
+</WebElementEntity>

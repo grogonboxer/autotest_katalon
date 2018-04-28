@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/供货方管理/供货方列表-新增</description>
+   <name>gonghuofangliebiao-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67627702-4176-40a4-9c68-77dadf612d7e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方账号', 1)</defaultValue>
+      <description></description>
+      <id>df2078c6-4c61-4267-8c5c-9005d71b4e9e</id>
+      <masked>false</masked>
+      <name>gonghuofangzhanghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>9b49fd93-65f7-400f-b19b-bf807217f97f</id>
+      <masked>false</masked>
+      <name>mima</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方全称', 1)</defaultValue>
+      <description></description>
+      <id>8c3d87f4-c7c8-446d-8dd4-1503dad166d7</id>
+      <masked>false</masked>
+      <name>gonghuofangquancheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方简称', 1)</defaultValue>
+      <description></description>
+      <id>03e70415-4e2d-487e-a275-14f9f6e87902</id>
+      <masked>false</masked>
+      <name>gonghuofangjiancheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货范围', 1)</defaultValue>
+      <description></description>
+      <id>de473d97-454f-4427-a2f8-69086d469764</id>
+      <masked>false</masked>
+      <name>gonghuofanwei</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方联系人', 1)</defaultValue>
+      <description></description>
+      <id>a516a2b4-7c0b-41d6-bd15-43962d01fb9d</id>
+      <masked>false</masked>
+      <name>gonghuofanglianxiren</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方联系电话', 1)</defaultValue>
+      <description></description>
+      <id>0e20c2e3-deff-4c84-a605-00b0315d516d</id>
+      <masked>false</masked>
+      <name>gonghuofanglianxidianhua</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方地址', 1)</defaultValue>
+      <description></description>
+      <id>5445e382-b693-470f-a073-3b591ec3c466</id>
+      <masked>false</masked>
+      <name>gonghuofangdizhi</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('备注', 1)</defaultValue>
+      <description></description>
+      <id>1b02ea7a-bdc1-473a-bc02-efce7ff4a7e1</id>
+      <masked>false</masked>
+      <name>beizhu</name>
+   </variable>
+</TestCaseEntity>

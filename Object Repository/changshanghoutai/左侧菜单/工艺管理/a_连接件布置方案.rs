@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_连接件布置方案</name>
+   <tag></tag>
+   <elementGuidId>78b98f36-2f58-11e8-aa28-985aebd8771a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/aside/section/ul/li/ul/li/a[count(. | //a[@href = '/technology/linkstyle' and (contains(text(), '连接件布置方案') or contains(., '连接件布置方案'))]) = count(//a[@href = '/technology/linkstyle' and (contains(text(), '连接件布置方案') or contains(., '连接件布置方案'))])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/aside/section/ul/li/ul/li/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/technology/linkstyle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>连接件布置方案</value>
+   </webElementProperties>
+</WebElementEntity>

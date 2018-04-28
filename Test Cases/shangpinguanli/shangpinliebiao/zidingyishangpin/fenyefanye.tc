@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/分页翻页</description>
+   <name>fenyefanye</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1070dba0-75ef-4b48-bce4-74550804f3b1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_checkbox选择框</name>
+   <tag></tag>
+   <elementGuidId>9c42f05f-1c58-4624-8687-28f1b7624988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;modaluser&quot;)/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[@class=&quot;data-list&quot;]/tr[1]/td[1]/input[1][count(. | //input[@type = 'checkbox' and @value = '269']) = count(//input[@type = 'checkbox' and @value = '269'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>269</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modaluser&quot;)/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[@class=&quot;data-list&quot;]/tr[1]/td[1]/input[1]</value>
+   </webElementProperties>
+</WebElementEntity>

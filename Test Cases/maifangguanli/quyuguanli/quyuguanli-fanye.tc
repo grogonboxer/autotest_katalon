@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/翻页</description>
+   <name>quyuguanli-fanye</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb2dd0ca-22d7-4825-9d4f-0989a739bdf6</testCaseGuid>
+</TestCaseEntity>

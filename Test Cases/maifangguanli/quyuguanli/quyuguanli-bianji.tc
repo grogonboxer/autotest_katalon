@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/编辑区域</description>
+   <name>quyuguanli-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92148fed-4b08-415d-9509-eb143493b0bb</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/区域信息').getValue('名称', 1)</defaultValue>
+      <description></description>
+      <id>d3c2fdc1-1942-45ca-a4cd-5f3e548e79c9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/区域信息').getValue('说明', 1)</defaultValue>
+      <description></description>
+      <id>82854178-da29-4a58-a229-519dc6c0e78c</id>
+      <masked>false</masked>
+      <name>intro</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('省', 1)</defaultValue>
+      <description></description>
+      <id>6363ed7c-95e9-42c3-b327-f65c60e4d22f</id>
+      <masked>false</masked>
+      <name>pro</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('市', 1)</defaultValue>
+      <description></description>
+      <id>3fd14e8c-d5d4-428d-a663-74a3387319a3</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/省市区').getValue('区', 1)</defaultValue>
+      <description></description>
+      <id>56e76d54-2c55-41c6-950b-84db7a9819d2</id>
+      <masked>false</masked>
+      <name>area</name>
+   </variable>
+</TestCaseEntity>

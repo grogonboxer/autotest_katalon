@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品库/新增标品</description>
+   <name>xinzengbiaopin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32e93aa8-3cd6-45be-b9cc-669bb49ff309</testCaseGuid>
+</TestCaseEntity>

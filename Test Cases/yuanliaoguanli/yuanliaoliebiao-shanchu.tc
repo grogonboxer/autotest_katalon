@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>原料管理/原料列表/删除</description>
+   <name>yuanliaoliebiao-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d886425-7154-4904-b94b-decc4e0812a1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('名称', 2)</defaultValue>
+      <description></description>
+      <id>338f4f60-e6ce-4f07-96ed-cc88454307df</id>
+      <masked>false</masked>
+      <name>yanzhengmingcheng</name>
+   </variable>
+</TestCaseEntity>

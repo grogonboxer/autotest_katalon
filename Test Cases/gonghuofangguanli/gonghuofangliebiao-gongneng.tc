@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/供货方管理/供货方列表-功能列表测试</description>
+   <name>gonghuofangliebiao-gongneng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c412b18-a6a2-4ada-b5f9-9eff739183bf</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('供货方全称', 1)</defaultValue>
+      <description></description>
+      <id>39d37c90-d691-4a1c-9fbb-4bfa27f78749</id>
+      <masked>false</masked>
+      <name>quancheng</name>
+   </variable>
+</TestCaseEntity>

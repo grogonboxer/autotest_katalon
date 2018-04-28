@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/子账户/搜索</description>
+   <name>sousuo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f284e758-2c07-4f44-b155-106637fac06e</testCaseGuid>
+</TestCaseEntity>

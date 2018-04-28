@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>chengpinguanli-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3338057-050f-4a6e-a343-2e567323dff5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('成品名称', 2)</defaultValue>
+      <description></description>
+      <id>c8a3af0f-bbab-4e6b-b797-53bc8ee7fc27</id>
+      <masked>false</masked>
+      <name>chengpinmingcheng</name>
+   </variable>
+</TestCaseEntity>

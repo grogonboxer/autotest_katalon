@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>span_pad首页设置</name>	
+   	<tag/>	
+   	<elementGuidId>fa257062-36e7-11e8-ad94-b8e8562fba4a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+      <webElementProperties>    
+             <isSelected>true</isSelected>   
+             <matchCondition>equals</matchCondition>   
+             <name>tag</name>    
+             <type>Main</type>   
+             <value>span</value>    
+       </webElementProperties> 
+       <webElementProperties>    
+             <isSelected>true</isSelected>   
+             <matchCondition>equals</matchCondition>   
+             <name>xpath</name>    
+             <type>Main</type>   
+             <value>html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;treeviewclass  #{item.hide ? item.hide.join(' ' : '')}&quot;]/a[1]/span[1]</value>    
+       </webElementProperties> 
+       <webElementProperties>    
+             <isSelected>true</isSelected>   
+             <matchCondition>equals</matchCondition>   
+             <name>text</name>    
+             <type>Main</type>   
+             <value>pad_首页设置</value>    
+       </webElementProperties> 
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/查看详情/添加角色</description>
+   <name>tianjiajuese</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38050e92-10a6-4b01-9a10-de1ca74d17f6</testCaseGuid>
+</TestCaseEntity>

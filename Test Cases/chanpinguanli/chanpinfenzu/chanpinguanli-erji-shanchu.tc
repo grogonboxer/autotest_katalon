@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品分组/删除二级分组</description>
+   <name>chanpinguanli-erji-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>361dc9aa-f4e5-411f-838b-fbf80e873cff</testCaseGuid>
+</TestCaseEntity>

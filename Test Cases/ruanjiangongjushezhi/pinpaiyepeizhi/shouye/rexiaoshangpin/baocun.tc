@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/热销商品/保存</description>
+   <name>baocun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc6244d2-9371-4a8e-8b77-b9d1ca7b207c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/启用、禁用</description>
+   <name>quyuguanli-switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf6cf460-ecc4-4d59-841b-59523ccc40d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cangkuleixing-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2529bad2-38d3-4f2d-91a2-4b1b7290a8f4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库类型名称', 1)</defaultValue>
+      <description>仓库类型名称</description>
+      <id>b6b45b26-28e7-11e8-a462-50af736c2359</id>
+      <masked>true</masked>
+      <name>cangkuleixingmingcheng</name>
+   </variable>
+</TestCaseEntity>

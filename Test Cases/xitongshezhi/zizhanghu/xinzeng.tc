@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/子账户/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f36c340c-a78c-4e28-a6da-d27c4c31fbce</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('用户名', 1)</defaultValue>
+      <description></description>
+      <id>c2e52372-8938-422f-a1df-14febb5a52e9</id>
+      <masked>false</masked>
+      <name>yonghuming</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>f5a8f2c6-3bcd-11e8-911d-50af736c2359</id>
+      <masked>false</masked>
+      <name>mima</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('姓名', 1)</defaultValue>
+      <description></description>
+      <id>04cf941c-3bce-11e8-bb5c-50af736c2359</id>
+      <masked>false</masked>
+      <name>xingming</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('职务', 1)</defaultValue>
+      <description></description>
+      <id>0eb6ceb4-3bce-11e8-ab65-50af736c2359</id>
+      <masked>false</masked>
+      <name>zhiwu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('手机号码', 1)</defaultValue>
+      <description></description>
+      <id>188975c2-3bce-11e8-9df0-50af736c2359</id>
+      <masked>false</masked>
+      <name>shoujihaoma</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('固定电话', 1)</defaultValue>
+      <description></description>
+      <id>2aa508e8-3bce-11e8-b823-50af736c2359</id>
+      <masked>false</masked>
+      <name>gudingdianhua</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('邮箱号码', 1)</defaultValue>
+      <description></description>
+      <id>354fb270-3bce-11e8-a87a-50af736c2359</id>
+      <masked>false</masked>
+      <name>youxianghaoma</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/系统设置/子账户数据').getValue('QQ', 1)</defaultValue>
+      <description></description>
+      <id>bc3e921c-3bce-11e8-aa3e-50af736c2359</id>
+      <masked>false</masked>
+      <name>QQ</name>
+   </variable>
+</TestCaseEntity>

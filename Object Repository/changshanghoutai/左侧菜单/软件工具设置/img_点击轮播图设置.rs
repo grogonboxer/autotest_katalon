@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>img_点击轮播图设置</name>	
+   	<tag/>	
+   	<elementGuidId>243751d8-371d-11e8-8400-b8e8562fba4a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>tag</name>     
+            <type>Main</type>    
+            <value>value</value>    
+      </webElementProperties> 
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>xpath</name>      
+            <type>Main</type>    
+            <value>/html/body/div[2]/section[2]/div/div[3]/div[1]/div[1]/div/div[1]/div/img[2]</value>    
+      </webElementProperties> 	
+</WebElementEntity>

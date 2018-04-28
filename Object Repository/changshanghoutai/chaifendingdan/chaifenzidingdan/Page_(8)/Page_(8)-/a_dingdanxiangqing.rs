@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_dingdanxiangqing</name>
+   <tag></tag>
+   <elementGuidId>a0681f17-9a61-48af-a5b8-d40fe3a91b25</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data-list&quot;)/div[@class=&quot;box-header&quot;]/div[@class=&quot;row data-list exportTbody&quot;]/div[@class=&quot;col-md-12 singleinfor&quot;]/div[@class=&quot;box box-solid&quot;]/div[@class=&quot;box-header with-border&quot;]/a[@class=&quot;operate-item pull-right&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/splitorder/detail?id=1278&amp;type=1&amp;allorder=240</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>订单详情</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>operate-item pull-right</value>
+   </webElementProperties>
+</WebElementEntity>

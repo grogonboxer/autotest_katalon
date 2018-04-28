@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍</description>
+   <name>jinrupinpaijieshao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a03bf25-f3cb-4835-9cc7-a962e107181c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>78141d13-f7b4-4665-8c77-649f3de778fa</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>fa7a606f-0699-469d-b6f2-5a64a29cf3e5</id>
+      <masked>false</masked>
+      <name>localimage</name>
+   </variable>
+</TestCaseEntity>

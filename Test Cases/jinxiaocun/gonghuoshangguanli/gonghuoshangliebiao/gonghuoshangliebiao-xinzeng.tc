@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>gonghuoshangliebiao-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23204b8e-1143-4224-a60c-886ee5c32bfe</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('供货商简称', 1)</defaultValue>
+      <description>供货商简称</description>
+      <id>733be698-28ee-11e8-b4b7-50af736c2359</id>
+      <masked>true</masked>
+      <name>gonghuoshangjiancheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('供货商全称', 1)</defaultValue>
+      <description>供货商全称</description>
+      <id>1b4fae1e-28f0-11e8-b18d-50af736c2359</id>
+      <masked>true</masked>
+      <name>gonghuoshangquancheng</name>
+   </variable>  
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('供货商编号', 1)</defaultValue>
+      <description>供货商编号</description>
+      <id>325dabf8-28f0-11e8-9eed-50af736c2359</id>
+      <masked>true</masked>
+      <name>gonghuoshangbianhao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('详细地址', 1)</defaultValue>
+      <description>详细地址</description>
+      <id>45a09aec-28f0-11e8-b2c5-50af736c2359</id>
+      <masked>true</masked>
+      <name>xiangxidizhi</name>
+   </variable>  
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('联系人姓名', 1)</defaultValue>
+      <description>联系人姓名</description>
+      <id>574fc2e6-28f0-11e8-8360-50af736c2359</id>
+      <masked>true</masked>
+      <name>lianxirenxingming</name>
+   </variable> 
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('手机号', 1)</defaultValue>
+      <description>手机号</description>
+      <id>6fe137ba-28f0-11e8-9fc4-50af736c2359</id>
+      <masked>true</masked>
+      <name>shoujihao</name>
+   </variable>   
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('座机', 1)</defaultValue>
+      <description>座机</description>
+      <id>7e591470-28f0-11e8-b271-50af736c2359</id>
+      <masked>true</masked>
+      <name>zuoji</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('邮箱', 1)</defaultValue>
+      <description>邮箱</description>
+      <id>8bdb82c2-28f0-11e8-a191-50af736c2359</id>
+      <masked>true</masked>
+      <name>youxiang</name>
+   </variable> 
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货商管理/供货商管理数据').getValue('备注', 1)</defaultValue>
+      <description>备注</description>
+      <id>9eb82fee-28f0-11e8-b8d2-50af736c2359</id>
+      <masked>true</masked>
+      <name>beizhu</name>
+   </variable>            
+</TestCaseEntity>

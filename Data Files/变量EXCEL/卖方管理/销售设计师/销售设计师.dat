@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>  
+    <description/>  
+    <name>销售设计师</name>  
+    <tag/>  
+    <containsHeaders>true</containsHeaders> 
+    <csvSeperator/> 
+    <dataFileGUID>7d5a9398-33cc-11e8-9789-a0c589861da1</dataFileGUID> 
+    <dataSourceUrl>Data Files/变量EXCEL/卖方管理/销售设计师/设计师.xlsx</dataSourceUrl>  
+    <driver>ExcelFile</driver>  
+    <isInternalPath>true</isInternalPath> 
+    <query/>  
+    <secureUserAccount>false</secureUserAccount>  
+    <sheetName>Sheet1</sheetName> 
+    <usingGlobalDBSetting>false</usingGlobalDBSetting>  
+</DataFileEntity>

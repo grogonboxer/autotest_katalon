@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>option_顾客类型-选项</name>	
+   	<tag/>	
+   	<elementGuidId>f975939a-33c2-11e8-84ca-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>option</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>//*[@id=&quot;form1&quot;]/div[3]/select/option[2]</value>		
+   	</webElementProperties>	
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>form-control</value>
+      </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfa1965d-28a0-4422-bc8d-a34194393bcd</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>304cc1f9-1b34-4873-b083-4dcc97b8aeac</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 2)</defaultValue>
+      <description></description>
+      <id>2ba0c7ba-0196-4aa6-88c4-f05e0bab24fa</id>
+      <masked>false</masked>
+      <name>url2</name>
+   </variable>
+</TestCaseEntity>

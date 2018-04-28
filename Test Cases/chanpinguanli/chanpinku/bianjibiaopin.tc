@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品库/编辑标品</description>
+   <name>bianjibiaopin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>523b37e0-eaa6-4bf7-849a-986c2f096216</testCaseGuid>
+</TestCaseEntity>

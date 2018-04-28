@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/角色权限/进入角色权限</description>
+   <name>jusequanxian_jinru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1af7c4d8-e988-4c7a-a3b8-2db4a6694b22</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/删除</description>
+   <name>xiajijingxiaoshang-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a84e29af-dc05-4375-ad7c-cdb849736293</testCaseGuid>
+</TestCaseEntity>

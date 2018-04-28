@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/查看详情/消息开关</description>
+   <name>xiaoxikaiguan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b014a21f-9b9f-411e-995d-01a15cd81414</testCaseGuid>
+</TestCaseEntity>

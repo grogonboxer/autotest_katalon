@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品分组/启用三级分类</description>
+   <name>chanpinfenzu-sanji-switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>290eb052-1a19-4220-84cb-8a0f2351c73a</testCaseGuid>
+</TestCaseEntity>

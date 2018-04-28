@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/基本设置/启用,禁用</description>
+   <name>jibenshezhi-yiji-switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98ecb052-bef3-4325-bfcd-1a62a613bbdc</testCaseGuid>
+</TestCaseEntity>

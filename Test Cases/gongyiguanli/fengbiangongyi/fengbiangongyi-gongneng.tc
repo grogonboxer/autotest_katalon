@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>研发管理/工艺管理/封边工艺</description>
+   <name>fengbiangongyi-gongneng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>778a1d53-2aa9-4878-86d3-6e5f0836f766</testCaseGuid>
+</TestCaseEntity>

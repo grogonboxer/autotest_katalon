@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_form-control_产品信息_文字介绍</name>
+   <tag></tag>
+   <elementGuidId>4f560fd2-1e5b-4ed8-9382-a19064e0b943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/section[2]/div/div[2]/div[2]/div[4]/div/div/table[1]/tbody/tr/td[8]/input[count(. | //input[@type = 'text' and @placeholder = '100*100*100' and @class = 'form-control']) = count(//input[@type = 'text' and @placeholder = '100*100*100' and @class = 'form-control'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/section[2]/div/div[2]/div[2]/div[4]/div/div/table[1]/tbody/tr/td[8]/input</value>
+   </webElementProperties>
+</WebElementEntity>

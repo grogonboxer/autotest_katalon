@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>个人设置/我的账户/个人资料编辑</description>
+   <name>gerenziliaobianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51a1c4e0-d8d6-446a-81f6-888e65e979c0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/个人设置/个人资料').getValue('姓名', 1)</defaultValue>
+      <description></description>
+      <id>692b7059-6bf6-4cd3-b78d-c67bc07b9fb9</id>
+      <masked>false</masked>
+      <name>xingming</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/个人设置/个人资料').getValue('手机号码', 1)</defaultValue>
+      <description></description>
+      <id>16591bdc-3bcb-11e8-abec-50af736c2359</id>
+      <masked>false</masked>
+      <name>shoujihaoma</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/个人设置/个人资料').getValue('QQ', 1)</defaultValue>
+      <description></description>
+      <id>224b1776-3bcb-11e8-b17f-50af736c2359</id>
+      <masked>false</masked>
+      <name>QQ</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/个人设置/个人资料').getValue('邮箱', 1)</defaultValue>
+      <description></description>
+      <id>2bbf1800-3bcb-11e8-b34c-50af736c2359</id>
+      <masked>false</masked>
+      <name>youxiang</name>
+   </variable>
+</TestCaseEntity>

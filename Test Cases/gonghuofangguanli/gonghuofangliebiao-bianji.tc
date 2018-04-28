@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/供货方管理/供货方列表-编辑</description>
+   <name>gonghuofangliebiao-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a619037a-a0e8-4214-8093-cf07e53ab11b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/供货方管理/供货方管理').getValue('编辑全称', 1)</defaultValue>
+      <description></description>
+      <id>aebf0264-e355-40bb-be79-2fb45382f204</id>
+      <masked>false</masked>
+      <name>editquancheng</name>
+   </variable>
+</TestCaseEntity>

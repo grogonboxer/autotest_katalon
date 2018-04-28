@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/搜索、刷新、筛选</description>
+   <name>xiajimendian-shuaxin_sousuo_shaixuan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b27e8bea-008b-4407-8de7-858526c669eb</testCaseGuid>
+</TestCaseEntity>

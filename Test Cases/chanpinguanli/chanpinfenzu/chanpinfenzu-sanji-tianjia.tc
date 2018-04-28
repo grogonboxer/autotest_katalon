@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品分组/添加三级分类</description>
+   <name>chanpinfenzu-sanji-tianjia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a619d6fa-d157-4927-86bd-67a0a4378854</testCaseGuid>
+</TestCaseEntity>

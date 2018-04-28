@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>  
+    <description/>  
+    <name>材料价格管理</name> 
+    <tag/>  
+    <containsHeaders>true</containsHeaders> 
+    <csvSeperator/> 
+    <dataFileGUID>f66fb35e-32f2-11e8-a0c9-408d5ca59395</dataFileGUID> 
+    <dataSourceUrl>Data Files/变量EXCEL/价格管理/材料价格管理.xlsx</dataSourceUrl>  
+    <driver>ExcelFile</driver>  
+    <isInternalPath>true</isInternalPath> 
+    <query/>  
+    <secureUserAccount>false</secureUserAccount>  
+    <sheetName>Sheet1</sheetName> 
+    <usingGlobalDBSetting>false</usingGlobalDBSetting>  
+</DataFileEntity>

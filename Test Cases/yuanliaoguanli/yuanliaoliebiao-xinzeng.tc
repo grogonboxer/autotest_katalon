@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>原料管理/原料列表/新增</description>
+   <name>yuanliaoliebiao-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c5f798d-cd46-4510-9ba7-655ac7c1cec9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 2)</defaultValue>
+      <description></description>
+      <id>34b56e27-cf46-40fa-9917-d6984ab07e27</id>
+      <masked>false</masked>
+      <name>yuanliaotupian</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('名称', 1)</defaultValue>
+      <description></description>
+      <id>0fd5e05f-3e05-47d5-bfd4-26ecabaa751d</id>
+      <masked>false</masked>
+      <name>mingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('型号', 1)</defaultValue>
+      <description></description>
+      <id>9106abf0-df83-4760-9f38-fc228e6b4100</id>
+      <masked>false</masked>
+      <name>xinghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('长度', 1)</defaultValue>
+      <description></description>
+      <id>ae3630d3-15cf-45c4-8524-664b2475d4d7</id>
+      <masked>false</masked>
+      <name>changdu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('宽度', 1)</defaultValue>
+      <description></description>
+      <id>953768f3-21b4-443f-ba15-3c629171ea93</id>
+      <masked>false</masked>
+      <name>kuandu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('厚度', 1)</defaultValue>
+      <description></description>
+      <id>4d9b3e71-a7f4-45ae-a347-a5d550f2d2fc</id>
+      <masked>false</masked>
+      <name>houdu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('主材', 1)</defaultValue>
+      <description></description>
+      <id>d8cd35e6-3d9e-491e-a98f-7e3c40ad70b0</id>
+      <masked>false</masked>
+      <name>zhucai</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('平均价格', 1)</defaultValue>
+      <description></description>
+      <id>8d777bf7-3915-4b10-8110-7c0f6f7b24fa</id>
+      <masked>false</masked>
+      <name>pingjunjiage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/计数、计价单位/计数、计价单位数据').getValue('计数单位', 5)</defaultValue>
+      <description></description>
+      <id>d68de3a9-8c8b-4114-a697-66b7049ec645</id>
+      <masked>false</masked>
+      <name>jishudanwei</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/计数、计价单位/计数、计价单位数据').getValue('计价单位', 4)</defaultValue>
+      <description></description>
+      <id>092f181d-b938-4407-9f9f-a846362e7bc1</id>
+      <masked>false</masked>
+      <name>jijiadanwei</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/计数、计价单位/计数、计价单位数据').getValue('包装规格单位', 2)</defaultValue>
+      <description></description>
+      <id>e311654a-2b56-4238-9b3f-ffa58727e492</id>
+      <masked>false</masked>
+      <name>baozhuangguigedanwei</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('品牌', 1)</defaultValue>
+      <description></description>
+      <id>c7b9d6f7-d662-4d16-8b5c-b89c62836a90</id>
+      <masked>false</masked>
+      <name>pinpai</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('产地', 1)</defaultValue>
+      <description></description>
+      <id>14dd0245-320e-4953-b901-7f2871156d86</id>
+      <masked>false</masked>
+      <name>chandi</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('包装规格', 1)</defaultValue>
+      <description></description>
+      <id>55ff18f8-7cec-46a5-881f-840359425936</id>
+      <masked>false</masked>
+      <name>baozhuangguige</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('折算系数', 1)</defaultValue>
+      <description></description>
+      <id>da381240-39ba-4ae7-a5de-4603f66a9dcb</id>
+      <masked>false</masked>
+      <name>zhesuanxishu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('特性', 1)</defaultValue>
+      <description></description>
+      <id>6e3936f7-0f3d-465f-a88c-8499fdceb4ff</id>
+      <masked>false</masked>
+      <name>texing</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('备注', 1)</defaultValue>
+      <description></description>
+      <id>5b73ef6f-121a-452d-95ac-790c7d7f79bb</id>
+      <masked>false</masked>
+      <name>beizhu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>9d29af1f-01da-4636-85c6-4b7e59a14a06</id>
+      <masked>false</masked>
+      <name>yuguo_tupian</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>  
+    <description/>  
+    <name>区域信息</name>  
+    <tag/>  
+    <containsHeaders>true</containsHeaders> 
+    <csvSeperator/> 
+    <dataFileGUID>4ac5c462-32f9-11e8-b068-408d5ca59395</dataFileGUID> 
+    <dataSourceUrl>Data Files/变量EXCEL/卖方管理/区域管理/区域信息.xlsx</dataSourceUrl>  
+    <driver>ExcelFile</driver>  
+    <isInternalPath>true</isInternalPath> 
+    <query/>  
+    <secureUserAccount>false</secureUserAccount>  
+    <sheetName>Sheet1</sheetName> 
+    <usingGlobalDBSetting>false</usingGlobalDBSetting>  
+</DataFileEntity>

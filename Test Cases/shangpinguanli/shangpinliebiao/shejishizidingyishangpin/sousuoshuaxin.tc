@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/设计师自定义商品列表/搜索刷新</description>
+   <name>sousuoshuaxin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e131efb4-7e85-4d48-8abc-d96fdeaca37a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>	
+   	<description/>	
+   	<name>供货方管理</name>	
+   	<tag/>	
+   	<containsHeaders>true</containsHeaders>	
+   	<csvSeperator/>	
+   	<dataFileGUID>5be1d44c-3659-11e8-94ad-985aebd8771a</dataFileGUID>	
+   	<dataSourceUrl>Data Files/变量EXCEL/供货方管理/供货方管理.xlsx</dataSourceUrl>	
+   	<driver>ExcelFile</driver>	
+   	<isInternalPath>true</isInternalPath>	
+   	<query/>	
+   	<secureUserAccount>false</secureUserAccount>	
+   	<sheetName>Sheet1</sheetName>	
+   	<usingGlobalDBSetting>false</usingGlobalDBSetting>	
+</DataFileEntity>

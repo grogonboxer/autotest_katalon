@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/商品回收站</description>
+   <name>shangpinhuishouzhan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e71c3ca6-7756-492c-b076-3150108ab29e</testCaseGuid>
+</TestCaseEntity>

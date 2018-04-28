@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>价格管理/材料价格管理/搜索-刷新</description>
+   <name>cailiaojiageguanli-sousuo_shuaxin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4640be5a-e270-401f-8e41-074a888b560a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/价格管理/材料价格管理').getValue('搜索关键字', 1)</defaultValue>
+      <description></description>
+      <id>60471caa-0e17-4055-b0bf-d0db9a0831e0</id>
+      <masked>false</masked>
+      <name>searchkey</name>
+   </variable>
+</TestCaseEntity>

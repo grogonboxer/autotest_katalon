@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/供货配置</description>
+   <name>gonghuopeizhi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d40578cf-8521-44c6-bcf3-a7da7c2c19c9</testCaseGuid>
+</TestCaseEntity>

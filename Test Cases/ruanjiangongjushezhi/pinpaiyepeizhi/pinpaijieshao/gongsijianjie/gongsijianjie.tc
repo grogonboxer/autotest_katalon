@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍/公司简介</description>
+   <name>gongsijianjie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebf01eff-38a7-4a8f-9709-2255dbf993d2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>7e13313e-0dab-4c97-889b-927d9dc2edad</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>  
+    <description/>  
+    <name>省市区</name>  
+    <tag/>  
+    <containsHeaders>true</containsHeaders> 
+    <csvSeperator/> 
+    <dataFileGUID>5e6f6688-32f9-11e8-a227-408d5ca59395</dataFileGUID> 
+    <dataSourceUrl>Data Files/变量EXCEL/卖方管理/区域管理/省市区.xlsx</dataSourceUrl>  
+    <driver>ExcelFile</driver>  
+    <isInternalPath>true</isInternalPath> 
+    <query/>  
+    <secureUserAccount>false</secureUserAccount>  
+    <sheetName>Sheet1</sheetName> 
+    <usingGlobalDBSetting>false</usingGlobalDBSetting>  
+</DataFileEntity>

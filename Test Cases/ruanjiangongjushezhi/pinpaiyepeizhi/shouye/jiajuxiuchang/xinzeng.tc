@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/家具秀场/新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f42cdab-62db-4dc1-9e89-8a8f59bd24b2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>84aa0179-95be-4a57-a274-9fa9e67983ad</id>
+      <masked>false</masked>
+      <name>image</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑首页/热销商品/编辑</description>
+   <name>bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0d3a5d-9f8c-46e9-ba60-7cc4f319941b</testCaseGuid>
+</TestCaseEntity>

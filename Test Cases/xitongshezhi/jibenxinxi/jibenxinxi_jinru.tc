@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/基本信息/进入基本信息</description>
+   <name>jibenxinxi_jinru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9efdd01c-0585-429e-a648-f44fcb590997</testCaseGuid>
+</TestCaseEntity>

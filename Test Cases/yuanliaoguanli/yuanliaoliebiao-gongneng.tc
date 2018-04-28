@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>原料管理/原料列表/筛选搜索</description>
+   <name>yuanliaoliebiao-gongneng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dea3be8-5d6f-416e-b1df-953408fa1f2a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('名称', 2)</defaultValue>
+      <description>原料名称</description>
+      <id>2efe6e9b-4e86-44d9-9187-e6867adde5e4</id>
+      <masked>false</masked>
+      <name>mingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('型号', 2)</defaultValue>
+      <description>型号</description>
+      <id>2754e55b-616e-4c76-ab4c-fee457581b12</id>
+      <masked>false</masked>
+      <name>xinghao</name>
+   </variable>
+</TestCaseEntity>

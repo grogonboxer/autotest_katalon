@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>a_新增</name>	
+   	<tag/>	
+   	<elementGuidId>f675cc3e-3654-11e8-947a-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>a</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>//*[@id=&quot;data-list&quot;]/div[1]/div/a</value>		
+   	</webElementProperties>	
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>href</name>
+         <type>Main</type>
+         <value>/supplierZS/new</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>btn btn-flat bg-olive left</value>
+      </webElementProperties>
+</WebElementEntity>

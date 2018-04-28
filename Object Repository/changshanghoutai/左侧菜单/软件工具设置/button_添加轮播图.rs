@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>button_添加轮播图</name>	
+   	<tag/>	
+   	<elementGuidId>be4f52da-371e-11e8-b722-b8e8562fba4a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>tag</name>     
+            <type>Main</type>    
+            <value>button</value>      
+      </webElementProperties> 
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>xpath</name>      
+            <type>Main</type>    
+            <value>/html/body/div[2]/section[2]/div/div[3]/div[1]/div[2]/div/span[3]/button</value>    
+      </webElementProperties> 
+</WebElementEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>  
+    <description/>  
+    <name>a_品牌页配置</name>  
+    <tag/>  
+    <elementGuidId>437d479c-3161-11e8-b958-acbc328db6eb</elementGuidId> 
+    <selectorCollection>    
+          <entry>     
+              <key>BASIC</key>      
+              <value/>      
+          </entry>    
+    </selectorCollection> 
+    <selectorMethod>BASIC</selectorMethod>  
+    <useRalativeImagePath>false</useRalativeImagePath>  
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>tag</name>    
+          <type>Main</type>   
+          <value>a</value>    
+    </webElementProperties> 
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>xpath</name>    
+          <type>Main</type>   
+          <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li/ul[@class=&quot;treeview-menu menu-open&quot;]/li/a[1]</value>    
+    </webElementProperties> 
+    <webElementProperties>
+          <isSelected>true</isSelected>
+          <matchCondition>equals</matchCondition>
+          <name>href</name>
+          <type>Main</type>
+          <value>/brandpage/select</value>
+    </webElementProperties>
+    <webElementProperties>    
+          <isSelected>true</isSelected>   
+          <matchCondition>equals</matchCondition>   
+          <name>text</name>    
+          <type>Main</type>   
+          <value>品牌页配置</value>    
+    </webElementProperties> 
+</WebElementEntity>

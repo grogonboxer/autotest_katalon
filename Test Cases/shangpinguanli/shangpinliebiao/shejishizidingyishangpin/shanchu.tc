@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/设计师自定义商品列表/删除</description>
+   <name>shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6c9eb4b-a976-463f-b2bd-24dfbb36d006</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>div_启用禁用成功提示</name>	
+   	<tag/>	
+   	<elementGuidId>b9734ebe-30ce-11e8-afb1-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>tag</name>		
+      		<type>Main</type>		
+      		<value>div</value>		
+   	</webElementProperties>	
+   	<webElementProperties>		
+      		<isSelected>true</isSelected>		
+      		<matchCondition>equals</matchCondition>		
+      		<name>xpath</name>		
+      		<type>Main</type>		
+      		<value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;alert alert-success alert-tip alert-top-center&quot;]</value>
+   	</webElementProperties>	
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>text</name>
+         <type>Main</type>
+         <value>×操作成功</value>
+      </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/推送管理/翻页</description>
+   <name>fanye</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9037269c-8fd1-44cf-94e9-b80ddbfa5a3a</testCaseGuid>
+</TestCaseEntity>

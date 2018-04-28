@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品分组/删除三级分类</description>
+   <name>chanpinfenzu-sanji-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7d632a5-03c8-4597-a5c9-e4e261ef43f7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"current_file_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "xml",
+		"selected_items":
+		[
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdopwn",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"installpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"view.run_command('replacename')",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Scripts/yuanliaoguanli/yuanliaoliebiao-xinzeng/Script1515133272643.groovy",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Test Cases/yuanliaoguanli/yuanliaoliebiao-xinzeng.tc",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Object Repository/changshanghoutai/原料管理/新增页/提交按钮1.rs",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Object Repository/changshanghoutai/原料管理/新增页/button_.rs",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Object Repository/changshanghoutai/原料管理/新增页/提交按钮.rs",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Data Files/account/登陆用例.xlsx",
+		"/C/Users/Administrator/Desktop/2018-01-14/字段有删除项的表.txt",
+		"/C/Users/Administrator/Desktop/2018-01-14/要刷数据的表.txt",
+		"/C/Users/Administrator/Desktop/柜示例.xml",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/.settings/org.eclipse.jdt.groovy.core.prefs",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Libs/internal/GlobalVariable.groovy",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Libs/CustomKeywords.groovy",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Libs/TempTestCase1515642647193.groovy",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Libs/TempTestCase1515642640496.groovy",
+		"/C/Users/Administrator/Documents/auto_test/company_manage_autotest/Libs/GlobalVariable.groovy",
+		"/E/Download/3dsmax2017 套装/清单.md",
+		"/E/Download/3dsmax2012 套装/清单.md",
+		"/E/下载/总结1.md",
+		"/C/Users/Administrator/Desktop/pre_factory_develop.sql",
+		"/F/softwares/VM/DPWorkCentOS.md",
+		"/D/Program Files/ElkRender_t/config/render.js",
+		"/D/Program Files/ElkRender/config/config.json",
+		"/D/Program Files/ElkRender_t/config/config.json",
+		"/D/Program Files/ElkRender_t/.git/config",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/config/http.config",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/back_bg.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/copyprojecttip.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/delprojecttip.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/material.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/nav.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/progoodfreshtip.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/setpublicprojecttip.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/shareprojecttip.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/common/unityarea.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/design3D/custom.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/design3D/lefttools.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/design3D/toptools.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/home/index.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/login/login.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/order/detail.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/order/list.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/personal/addcontent.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/personal/addlinkman.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/personal/basicinfo.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/personal/edit.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/personal/editaddress.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/project/index.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/project/list.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/project/offertips.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/template.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/wall/lefttool.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/wall/righttool.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/wall/save.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/dist/wall/toptools.js",
+		"/D/展会/搭配家云设计v0.5.0.170707正式版/c2m_html/src/lib/winform.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\展会\\搭配家云设计v0.5.0.170707正式版\\c2m_html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"192.168.1.54",
+			"192.168"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"192.168.163.128"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

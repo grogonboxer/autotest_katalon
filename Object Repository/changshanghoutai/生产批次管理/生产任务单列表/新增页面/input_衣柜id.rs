@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>input_衣柜id</name>	
+   	<tag/>	
+   	<elementGuidId>1b756cde-37d8-11e8-92ee-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>tag</name>
+         <type>Main</type>
+         <value>input</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>type</name>
+         <type>Main</type>
+         <value>text</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>placeholder</name>
+         <type>Main</type>
+         <value>衣柜id(,分隔)</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>form-control col-xs-4</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>xpath</name>
+         <type>Main</type>
+         <value>id(&quot;addnew&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@id=&quot;data-list&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control col-xs-4&quot;]</value>
+      </webElementProperties>
+      
+</WebElementEntity>

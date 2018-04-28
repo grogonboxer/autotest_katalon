@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/自定义商品列表/导出</description>
+   <name>daochu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7382e12b-0700-4d52-9c94-2ceabe3cf34e</testCaseGuid>
+</TestCaseEntity>

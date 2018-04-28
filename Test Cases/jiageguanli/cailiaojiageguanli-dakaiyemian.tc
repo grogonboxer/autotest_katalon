@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>价格管理/材料价格管理/打开材料价格管理页面</description>
+   <name>cailiaojiageguanli-dakaiyemian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c411cc95-017c-4503-b03a-313cbd12f44b</testCaseGuid>
+</TestCaseEntity>

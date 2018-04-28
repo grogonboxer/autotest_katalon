@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/生产批次管理/生产任务单列表-列表测试</description>
+   <name>shengchanrenwuliebiao-gongneng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caa3fd32-fa15-461b-a680-f870e978b9a0</testCaseGuid>
+</TestCaseEntity>

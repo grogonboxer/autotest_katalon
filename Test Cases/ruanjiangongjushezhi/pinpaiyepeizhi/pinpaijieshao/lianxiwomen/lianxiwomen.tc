@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍/联系我们/保存</description>
+   <name>lianxiwomen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf8632dc-ff23-4cba-ab85-e787197368b2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>9e11310c-209b-4ebe-9471-528496341c87</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

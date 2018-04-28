@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>商品管理/分类管理/行业分类/打开页面</description>
+   <name>fenleiguanli-dakaiyemian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c64eafb8-12dd-4b51-aba8-511d90b22cb4</testCaseGuid>
+</TestCaseEntity>

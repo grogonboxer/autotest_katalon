@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑品牌介绍/进入荣誉资质/保存</description>
+   <name>baocun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e93ffe6-47ba-4b45-9fc7-5aeb73390cb6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/门店级别/搜索、翻页、刷新</description>
+   <name>mendianjibie-sousuo_fanye_shuaxin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23178dc2-17be-4b4f-af00-9e4a738e8bb2</testCaseGuid>
+</TestCaseEntity>

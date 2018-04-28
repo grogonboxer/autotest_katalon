@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>个人设置/我的账户/进入我的账户</description>
+   <name>wodezhanghu_jinru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85e2498f-5179-40b2-830c-9b1ba2f992ad</testCaseGuid>
+</TestCaseEntity>

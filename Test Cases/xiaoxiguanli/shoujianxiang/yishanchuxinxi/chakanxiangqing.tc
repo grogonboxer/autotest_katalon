@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/收件箱/已删除信息/查看详情</description>
+   <name>chakanxiangqing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8d4759d-1ed6-4251-8de4-d8c242099ad4</testCaseGuid>
+</TestCaseEntity>

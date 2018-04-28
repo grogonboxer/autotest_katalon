@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>zizhiwenjian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecd39ed1-ccbf-4c4e-b352-db032af010d9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片资源EXCEL/资质文件资源文件').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>19c6f185-07e9-474b-a92b-86d7585259b2</id>
+      <masked>false</masked>
+      <name>zizhitupian</name>
+   </variable>
+</TestCaseEntity>

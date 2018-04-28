@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/子账户/删除</description>
+   <name>shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf885bc8-0435-4a33-8903-12e811ff5e57</testCaseGuid>
+</TestCaseEntity>

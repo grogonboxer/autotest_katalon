@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/门店级别/打开页面</description>
+   <name>mendianjibie-dakaiyemian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a11648c8-ccbd-488a-88fb-e8ecd46455ca</testCaseGuid>
+</TestCaseEntity>

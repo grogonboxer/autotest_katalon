@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/打开页面</description>
+   <name>xiajijingxiaoshang-dakaiyemian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f39c01aa-43e7-4d70-ab6c-0f3b50bfdac5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/新增</description>
+   <name>xiajijingxiaoshang-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0a60aa2-9962-4f5d-9a41-a9c11a06bfd2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>e3a7fe18-2b48-4dd6-8e24-22d12f8220ae</id>
+      <masked>false</masked>
+      <name>logo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('三证合一', 1)</defaultValue>
+      <description></description>
+      <id>80957ade-5b5b-42da-8ed1-2e9b5851e30a</id>
+      <masked>false</masked>
+      <name>allimages</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('营业执照', 1)</defaultValue>
+      <description></description>
+      <id>cda7a5f3-6489-4470-b7e3-d3c9dd08d583</id>
+      <masked>false</masked>
+      <name>businesslicense</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('组织机构代码', 1)</defaultValue>
+      <description></description>
+      <id>8ab03122-dd8a-4282-bcac-173dd9a6fedf</id>
+      <masked>false</masked>
+      <name>organization</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('税务登记证', 1)</defaultValue>
+      <description></description>
+      <id>f5209205-2c40-4690-9c6f-c9b0b8c3c255</id>
+      <masked>false</masked>
+      <name>tax</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('名称', 1)</defaultValue>
+      <description></description>
+      <id>9aa10c11-ef9f-4a3e-829d-c88ec03fd330</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('账号', 1)</defaultValue>
+      <description></description>
+      <id>4ebf01dc-1306-47bf-aec2-c913394a83d7</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>6118fbe7-5b55-405d-8a37-4df9b2bd5c22</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('服务区域', 1)</defaultValue>
+      <description></description>
+      <id>7b118fdf-e03f-43e1-b1e7-c5c3dea01c5c</id>
+      <masked>false</masked>
+      <name>serarea</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('服务省', 1)</defaultValue>
+      <description></description>
+      <id>2b3e2b3c-d69b-491d-b236-26c2447a09f2</id>
+      <masked>false</masked>
+      <name>ser_pro</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('服务市', 1)</defaultValue>
+      <description></description>
+      <id>f6bb3e54-3336-4f52-8283-1b889c50badf</id>
+      <masked>false</masked>
+      <name>ser_city</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('服务区', 1)</defaultValue>
+      <description></description>
+      <id>05b457d5-0dc2-41eb-82ef-e42d0626219f</id>
+      <masked>false</masked>
+      <name>ser_area</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('办公省', 1)</defaultValue>
+      <description></description>
+      <id>bcda1667-56ec-438a-a52b-2c1d1c187d22</id>
+      <masked>false</masked>
+      <name>office_pro</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('办公市', 1)</defaultValue>
+      <description></description>
+      <id>e78d2122-fcd8-42c6-a17f-7327854e1d5b</id>
+      <masked>false</masked>
+      <name>office_city</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('办公区', 1)</defaultValue>
+      <description></description>
+      <id>acdf9032-667b-4e29-b6c6-6f5aa73ecee8</id>
+      <masked>false</masked>
+      <name>office_area</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('详细地址', 1)</defaultValue>
+      <description></description>
+      <id>97cf4a42-3a0d-48bf-aa18-a518af480a47</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('负责人', 1)</defaultValue>
+      <description></description>
+      <id>c5669eec-599b-44f0-9960-6f7d99ef320c</id>
+      <masked>false</masked>
+      <name>header</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('联系电话', 1)</defaultValue>
+      <description></description>
+      <id>e0fc4259-9222-4c18-ba7b-177f0f4fef5d</id>
+      <masked>false</masked>
+      <name>link_mobile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('电话', 1)</defaultValue>
+      <description></description>
+      <id>3aa67c40-e3a1-4475-a070-125cdf590304</id>
+      <masked>false</masked>
+      <name>tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('银行', 1)</defaultValue>
+      <description></description>
+      <id>9acf0984-bef0-4534-956d-dcd4661afb40</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('开户名称', 1)</defaultValue>
+      <description></description>
+      <id>509a69a5-8806-4eff-ad75-e3406efb48ec</id>
+      <masked>false</masked>
+      <name>accountname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('对公账号', 1)</defaultValue>
+      <description></description>
+      <id>bd6657c1-0114-4c5a-b13f-1bc5aeb60de5</id>
+      <masked>false</masked>
+      <name>banknum</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('法人代表', 1)</defaultValue>
+      <description></description>
+      <id>5ffba5cb-740f-4817-8632-3f5bec63ac2d</id>
+      <masked>false</masked>
+      <name>legaler</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('注册资金', 1)</defaultValue>
+      <description></description>
+      <id>ea47b663-c0aa-4281-bac5-2bf78c8f5584</id>
+      <masked>false</masked>
+      <name>money</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('员工总数', 1)</defaultValue>
+      <description></description>
+      <id>e1567eb1-5f92-40dd-81e3-14a9d5b2cda0</id>
+      <masked>false</masked>
+      <name>employees</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('有效期', 1)</defaultValue>
+      <description></description>
+      <id>5ca51681-164f-444d-a009-542c20384f53</id>
+      <masked>false</masked>
+      <name>validity</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('创建时间', 1)</defaultValue>
+      <description></description>
+      <id>c3d7e6c7-d6a9-4b57-9ef0-9e2077a4fa09</id>
+      <masked>false</masked>
+      <name>createtime</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/下级经销商/新建下级经销商').getValue('文字说明', 1)</defaultValue>
+      <description></description>
+      <id>ceabd204-d3cb-4d63-aaa4-19bd055c4306</id>
+      <masked>false</masked>
+      <name>content</name>
+   </variable>
+</TestCaseEntity>

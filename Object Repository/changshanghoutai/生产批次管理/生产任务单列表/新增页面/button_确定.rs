@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>button_确定</name>	
+   	<tag/>	
+   	<elementGuidId>a2aa29e2-37d5-11e8-854f-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>tag</name>
+         <type>Main</type>
+         <value>button</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>type</name>
+         <type>Main</type>
+         <value>button</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>class</name>
+         <type>Main</type>
+         <value>btn btn-flat</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>data-pass</name>
+         <type>Main</type>
+         <value>true</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>text</name>
+         <type>Main</type>
+         <value>确定</value>
+      </webElementProperties>
+      <webElementProperties>
+         <isSelected>false</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>xpath</name>
+         <type>Main</type>
+         <value>id(&quot;addnew&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-flat&quot;]</value>
+      </webElementProperties>
+</WebElementEntity>

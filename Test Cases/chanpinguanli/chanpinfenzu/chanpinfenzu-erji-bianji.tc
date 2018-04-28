@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品管理/产品分组/编辑二级分类</description>
+   <name>chanpinfenzu-erji-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86a1e43b-34a1-484a-9f03-5305e19ee126</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/销售设计师/编辑销售设计师</description>
+   <name>bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a6023c4-2aed-4c83-a645-a3b3763ef792</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('用户姓名', 2)</defaultValue>
+      <description></description>
+      <id>8a6f6f51-aab5-43a6-b085-89378980d2dc</id>
+      <masked>false</masked>
+      <name>yonghuxingming</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('折扣', 2)</defaultValue>
+      <description></description>
+      <id>c16df3da-3bc8-11e8-9fcd-50af736c2359</id>
+      <masked>false</masked>
+      <name>zhekou</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/销售设计师/销售设计师').getValue('手机号', 2)</defaultValue>
+      <description></description>
+      <id>c92b9942-3bc8-11e8-9d39-50af736c2359</id>
+      <masked>false</masked>
+      <name>shoujihao</name>
+   </variable>
+</TestCaseEntity>

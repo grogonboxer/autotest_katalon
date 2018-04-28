@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/商品管理/商品列表/设计师自定义商品列表</description>
+   <name>shejishizidingyishangpinliebiao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b1d994a-1bc6-4bf5-a20b-2721b9e43cd7</testCaseGuid>
+</TestCaseEntity>

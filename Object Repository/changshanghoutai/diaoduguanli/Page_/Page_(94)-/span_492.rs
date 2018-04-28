@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_492</name>
+   <tag></tag>
+   <elementGuidId>6491c388-c479-4eff-9ed2-dbbcc0e6b8ee</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;nav-tabs-custom&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;box box-solid&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;row order-info-wraper&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;box box-solid&quot;]/div[@class=&quot;box-body&quot;]/p[3]/span[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>492</value>
+   </webElementProperties>
+</WebElementEntity>

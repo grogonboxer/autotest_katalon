@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>生产管理/供货方管理/供货方列表-联系人列表</description>
+   <name>gonghuofangliebiao-lianxirenliebiao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75801be6-49be-4c45-96d5-3c65b359cee7</testCaseGuid>
+</TestCaseEntity>

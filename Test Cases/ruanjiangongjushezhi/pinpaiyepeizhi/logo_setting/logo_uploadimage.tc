@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/品牌页配置/编辑入口/编辑LOGO</description>
+   <name>logo_uploadimage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5883748-b3f1-4a11-a58d-30dddac3d507</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>7b25d83d-392c-4369-9ce9-0c0021b1ef2b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('图片/yuanliaotupianku').getValue('路径', 1)</defaultValue>
+      <description></description>
+      <id>50d8bccd-1700-416c-8feb-8038be6bded2</id>
+      <masked>false</masked>
+      <name>localimage</name>
+   </variable>
+</TestCaseEntity>

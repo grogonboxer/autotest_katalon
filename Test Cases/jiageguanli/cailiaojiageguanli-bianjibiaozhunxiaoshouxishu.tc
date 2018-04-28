@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>价格管理/材料价格管理/编辑标准销售系数</description>
+   <name>cailiaojiageguanli-bianjibiaozhunxiaoshouxishu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e81ae8e-5f56-4b5f-8fe4-65d6ece2954a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/价格管理/材料价格管理').getValue('价格系数', 1)</defaultValue>
+      <description></description>
+      <id>dbab8430-f999-41dc-b343-2f2879123f3e</id>
+      <masked>false</masked>
+      <name>coefficient</name>
+   </variable>
+</TestCaseEntity>

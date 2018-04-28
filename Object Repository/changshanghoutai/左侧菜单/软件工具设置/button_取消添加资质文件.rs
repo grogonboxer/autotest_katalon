@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>button_取消添加资质文件</name>	
+   	<tag/>	
+   	<elementGuidId>98aeab38-3709-11e8-875f-b8e8562fba4a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>tag</name>     
+            <type>Main</type>    
+            <value>button</value>      
+      </webElementProperties> 
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>xpath</name>      
+            <type>Main</type>    
+            <value>//*[@id="addQualify"]/div/div/div[3]/button[2]</value>    
+      </webElementProperties> 	
+</WebElementEntity>

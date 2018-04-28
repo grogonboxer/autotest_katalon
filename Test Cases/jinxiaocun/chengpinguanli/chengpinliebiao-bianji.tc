@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>chengpinliebiao-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86103e67-4796-4c2f-918a-935247d0ab73</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('成品名称', 2)</defaultValue>
+      <description>成品名称</description>
+      <id>ba9fdeb0-28e0-11e8-bb71-50af736c2359</id>
+      <masked>true</masked>
+      <name>chengpinmingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('成品型号', 2)</defaultValue>
+      <description>成品型号</description>
+      <id>f3612bfa-28e0-11e8-80ee-50af736c2359</id>
+      <masked>true</masked>
+      <name>chengpinxinghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('长', 2)</defaultValue>
+      <description>长</description>
+      <id>5059da0a-28e1-11e8-ae8e-50af736c2359</id>
+      <masked>true</masked>
+      <name>chang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('宽', 2)</defaultValue>
+      <description>宽</description>
+      <id>5525ad90-28e1-11e8-bb7b-50af736c2359</id>
+      <masked>true</masked>
+      <name>kuan</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('高', 2)</defaultValue>
+      <description>高</description>
+      <id>58c1cad4-28e1-11e8-ad42-50af736c2359</id>
+      <masked>true</masked>
+      <name>gao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('颜色', 2)</defaultValue>
+      <description>颜色</description>
+      <id>615e1b90-28e1-11e8-86d1-50af736c2359</id>
+      <masked>true</masked>
+      <name>yanse</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('重要特性', 2)</defaultValue>
+      <description>重要特性</description>
+      <id>669d5f26-28e1-11e8-a41e-50af736c2359</id>
+      <masked>true</masked>
+      <name>zhongyaotexing</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('备注', 2)</defaultValue>
+      <description>备注</description>
+      <id>6aec7210-28e1-11e8-8960-50af736c2359</id>
+      <masked>true</masked>
+      <name>beizhu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('图片/chengpintupian').getValue('路径', 2)</defaultValue>
+      <description></description>
+      <id>cfc4b26f-2291-421d-9904-e314edbb6d20</id>
+      <masked>false</masked>
+      <name>chengpintupian</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/成品管理/成品数据').getValue('成品名称', 1)</defaultValue>
+      <description></description>
+      <id>b220fc34-ec9e-4950-8d35-24fee8920888</id>
+      <masked>false</masked>
+      <name>xinzengmingcheng</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/区域管理/刷新、搜素</description>
+   <name>quyuguanli-shuaxin_sousuo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>302ecf3c-5f2c-4123-82ed-8e99c5b702c8</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/卖方管理/区域管理/区域信息').getValue('搜索', 1)</defaultValue>
+      <description></description>
+      <id>35ba20b1-ab2d-49b5-b934-bf2cbdcdd020</id>
+      <masked>false</masked>
+      <name>searchkey</name>
+   </variable>
+</TestCaseEntity>

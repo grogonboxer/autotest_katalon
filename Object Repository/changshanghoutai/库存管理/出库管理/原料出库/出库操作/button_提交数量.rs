@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_提交数量</name>
+   <tag></tag>
+   <elementGuidId>4914daca-9bda-4705-ba60-746b674288e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[count(. | //*[@id=&quot;selectMa&quot;]/div/div/div[4]/button[1]) = count(//*[@id=&quot;selectMa&quot;]/div/div/div[4]/button[1])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;selectMa&quot;]/div/div/div[4]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

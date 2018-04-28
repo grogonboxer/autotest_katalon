@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/买方管理/客户列表－删除</description>
+   <name>gukeliebiao-shanchu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>332a1d52-3c80-4673-abc7-3d39232ac38e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('顾客简称', 1)</defaultValue>
+      <description></description>
+      <id>4275e2a3-2f0e-4cdb-9373-fd3af258171e</id>
+      <masked>false</masked>
+      <name>shortname</name>
+   </variable>
+</TestCaseEntity>

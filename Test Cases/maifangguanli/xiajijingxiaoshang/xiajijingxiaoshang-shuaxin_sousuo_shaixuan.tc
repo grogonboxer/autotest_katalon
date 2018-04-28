@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/刷新、搜索、筛选</description>
+   <name>xiajijingxiaoshang-shuaxin_sousuo_shaixuan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee93a1df-1857-4d50-aab6-d1117ee7151d</testCaseGuid>
+</TestCaseEntity>

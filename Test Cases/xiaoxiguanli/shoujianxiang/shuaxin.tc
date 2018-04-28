@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>消息管理/收件箱/刷新</description>
+   <name>shuaxin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>349e797b-e9f0-46c4-b7a7-381783db10c5</testCaseGuid>
+</TestCaseEntity>

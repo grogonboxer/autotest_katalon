@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/门店级别/编辑</description>
+   <name>mendianjibie-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c578030c-e7e6-4b78-a249-53f601709e8a</testCaseGuid>
+</TestCaseEntity>

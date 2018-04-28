@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>原料管理/原料列表/编辑</description>
+   <name>yuanliaoliebiao-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4022292b-03b0-4014-913a-cc08d88c0fa6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('名称', 2)</defaultValue>
+      <description></description>
+      <id>0fd5e05f-3e05-47d5-bfd4-26ecabaa751d</id>
+      <masked>false</masked>
+      <name>mingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('型号', 2)</defaultValue>
+      <description></description>
+      <id>9106abf0-df83-4760-9f38-fc228e6b4100</id>
+      <masked>false</masked>
+      <name>xinghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('长度', 2)</defaultValue>
+      <description></description>
+      <id>ae3630d3-15cf-45c4-8524-664b2475d4d7</id>
+      <masked>false</masked>
+      <name>changdu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('宽度', 2)</defaultValue>
+      <description></description>
+      <id>953768f3-21b4-443f-ba15-3c629171ea93</id>
+      <masked>false</masked>
+      <name>kuandu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('厚度', 2)</defaultValue>
+      <description></description>
+      <id>4d9b3e71-a7f4-45ae-a347-a5d550f2d2fc</id>
+      <masked>false</masked>
+      <name>houdu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('主材', 2)</defaultValue>
+      <description></description>
+      <id>d8cd35e6-3d9e-491e-a98f-7e3c40ad70b0</id>
+      <masked>false</masked>
+      <name>zhucai</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('平均价格', 2)</defaultValue>
+      <description></description>
+      <id>8d777bf7-3915-4b10-8110-7c0f6f7b24fa</id>
+      <masked>false</masked>
+      <name>pingjunjiage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/原料管理/原料管理所需数据').getValue('名称', 1)</defaultValue>
+      <description></description>
+      <id>92002dc5-93b6-4ddc-a7c1-d2cb68c5a8b7</id>
+      <masked>false</masked>
+      <name>yanzhengmingcheng</name>
+   </variable>
+</TestCaseEntity>

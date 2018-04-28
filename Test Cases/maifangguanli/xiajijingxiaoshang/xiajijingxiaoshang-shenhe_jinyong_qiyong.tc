@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级经销商/审核、禁用、启用</description>
+   <name>xiajijingxiaoshang-shenhe_jinyong_qiyong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>813b6cfc-66ec-49a2-861a-3cf51b9c9954</testCaseGuid>
+</TestCaseEntity>

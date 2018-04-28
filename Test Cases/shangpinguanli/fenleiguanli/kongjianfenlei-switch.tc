@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>商品管理/分类管理/空间分类/启用禁用</description>
+   <name>kongjianfenlei-switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e89ee47-4f75-45d9-9ffd-dd995859d864</testCaseGuid>
+</TestCaseEntity>

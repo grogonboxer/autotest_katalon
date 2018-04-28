@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/买方管理/客户列表－编辑</description>
+   <name>gukeliebiao-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3610b71e-8ac8-4932-9928-d95b1542e6ff</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('顾客简称', 1)</defaultValue>
+      <description></description>
+      <id>70e4ca26-7135-4039-82bf-a2214d73b939</id>
+      <masked>false</masked>
+      <name>shortname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/买方管理/买方管理').getValue('编辑顾客简称', 1)</defaultValue>
+      <description></description>
+      <id>cfb1c163-31a5-407d-b16c-0cea3504c19b</id>
+      <masked>false</masked>
+      <name>editshortname</name>
+   </variable>
+</TestCaseEntity>

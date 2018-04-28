@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>软件工具设置/云展厅配置</description>
+   <name>yunzhantingpeizhi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c6da25a-96e6-4f6f-af59-da57d4f69814</testCaseGuid>
+</TestCaseEntity>

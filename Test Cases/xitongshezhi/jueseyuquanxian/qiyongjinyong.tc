@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>系统设置/角色与权限/启用禁用</description>
+   <name>qiyongjinyong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fa5b526-6b21-48b9-bc77-5346eb2bab29</testCaseGuid>
+</TestCaseEntity>

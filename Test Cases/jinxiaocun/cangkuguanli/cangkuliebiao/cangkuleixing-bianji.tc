@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cangkuleixing-bianji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64f57ee7-e6a4-4a49-819b-81a20244f64d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库类型名称', 2)</defaultValue>
+      <description>仓库类型名称</description>
+      <id>b6b45b26-28e7-11e8-a462-50af736c2359</id>
+      <masked>true</masked>
+      <name>cangkuleixingmingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/仓库管理/仓库管理数据').getValue('仓库类型名称', 1)</defaultValue>
+      <description></description>
+      <id>5fa77163-e393-427f-82bf-a06a836e37a4</id>
+      <masked>false</masked>
+      <name>xinzengleixingmingcheng</name>
+   </variable>
+</TestCaseEntity>

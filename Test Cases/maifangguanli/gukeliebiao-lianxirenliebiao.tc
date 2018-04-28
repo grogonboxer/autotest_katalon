@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>销售管理/买方管理/客户列表－联系人列表</description>
+   <name>gukeliebiao-lianxirenliebiao</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>974ec6c3-9a04-43e9-8371-4195b3e0d82f</testCaseGuid>
+</TestCaseEntity>

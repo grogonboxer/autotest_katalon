@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>卖方管理/下级门店/门店级别/新增</description>
+   <name>mendianjibie-xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fae68931-4086-4532-92f8-456bf0b8c79f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><WebElementEntity>	
+   	<description/>	
+   	<name>input_电话</name>	
+   	<tag/>	
+   	<elementGuidId>4abd0ad8-37dc-11e8-bda9-985aebd8771a</elementGuidId>	
+   	<selectorCollection>		
+      		<entry>			
+         			<key>BASIC</key>			
+         			<value/>			
+      		</entry>		
+   	</selectorCollection>	
+   	<selectorMethod>BASIC</selectorMethod>	
+   	<useRalativeImagePath>false</useRalativeImagePath>	
+   	<webElementProperties>    
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>tag</name>     
+            <type>Main</type>    
+            <value>input</value>    
+      </webElementProperties> 
+      <webElementProperties>
+         <isSelected>true</isSelected>
+         <matchCondition>equals</matchCondition>
+         <name>type</name>
+         <type>Main</type>
+         <value>text</value>
+      </webElementProperties>
+      <webElementProperties>     
+            <isSelected>true</isSelected>    
+            <matchCondition>equals</matchCondition>      
+            <name>xpath</name>      
+            <type>Main</type>    
+            <value>id(&quot;addnew&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@id=&quot;data-list&quot;]/div[3]/input</value>     
+      </webElementProperties> 
+</WebElementEntity>

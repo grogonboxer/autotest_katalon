@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>denglu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2df9f739-6dd7-4b07-bb2d-d295b4055fce</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('account/登录').getValue('网址', 1)</defaultValue>
+      <description></description>
+      <id>d9598574-e435-44ae-aff0-8b2c5139a144</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('account/登录').getValue('用户名', 1)</defaultValue>
+      <description></description>
+      <id>d63a1686-4133-4192-ba47-8088f678eb2d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('account/登录').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>33a187bc-dce4-427b-ac4a-9175f770887c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('account/login').getValue('密码', 1)</defaultValue>
+      <description></description>
+      <id>45221694-809b-479e-9d76-dcb860f65559</id>
+      <masked>false</masked>
+      <name>password_new</name>
+   </variable>
+</TestCaseEntity>

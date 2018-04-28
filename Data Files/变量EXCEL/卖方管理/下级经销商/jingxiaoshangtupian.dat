@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><DataFileEntity>  
+    <description/>  
+    <name>jingxiaoshangtupian</name>  
+    <tag/>  
+    <containsHeaders>true</containsHeaders> 
+    <csvSeperator/> 
+    <dataFileGUID>8d33ed88-3335-11e8-8c01-408d5ca59395</dataFileGUID> 
+    <dataSourceUrl>Data Files/变量EXCEL/卖方管理/下级经销商/新建下级经销商.xlsx</dataSourceUrl>  
+    <driver>ExcelFile</driver>  
+    <isInternalPath>true</isInternalPath> 
+    <query/>  
+    <secureUserAccount>false</secureUserAccount>  
+    <sheetName>Sheet1</sheetName> 
+    <usingGlobalDBSetting>false</usingGlobalDBSetting>  
+</DataFileEntity>

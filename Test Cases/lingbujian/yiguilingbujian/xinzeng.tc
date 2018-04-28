@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>衣柜零部件-新增</description>
+   <name>xinzeng</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c054b779-912a-49e6-8537-3a0ec44dc8d6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('部件名称', 1)</defaultValue>
+      <description></description>
+      <id>f90544c9-9635-40d5-be83-b9e7041c793a</id>
+      <masked>false</masked>
+      <name>bujianmingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('部件型号', 1)</defaultValue>
+      <description></description>
+      <id>b635c0b8-3af8-11e8-95ce-50af736c2359</id>
+      <masked>false</masked>
+      <name>bujianxinghao</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最大尺寸长', 1)</defaultValue>
+      <description></description>
+      <id>e9688eb6-3af8-11e8-bf66-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuidachicunchang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最大尺寸宽', 1)</defaultValue>
+      <description></description>
+      <id>f7a82892-3af8-11e8-9f9c-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuidachicunkuan</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最大尺寸深', 1)</defaultValue>
+      <description></description>
+      <id>04248af4-3af9-11e8-ba1a-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuidachicunshen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最小尺寸长', 1)</defaultValue>
+      <description></description>
+      <id>162ab582-3af9-11e8-be73-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuixiaochicunchang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最小尺寸宽', 1)</defaultValue>
+      <description></description>
+      <id>26e89486-3af9-11e8-ab13-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuixiaochicunkuan</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('最小尺寸深', 1)</defaultValue>
+      <description></description>
+      <id>3258ad36-3af9-11e8-9c1f-50af736c2359</id>
+      <masked>false</masked>
+      <name>zuixiaochicunshen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('默认尺寸长', 1)</defaultValue>
+      <description></description>
+      <id>484e7940-3af9-11e8-b49f-50af736c2359</id>
+      <masked>false</masked>
+      <name>morenchicunchang</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('默认尺寸宽', 1)</defaultValue>
+      <description></description>
+      <id>5766e712-3af9-11e8-ae8e-50af736c2359</id>
+      <masked>false</masked>
+      <name>morenchicunkuan</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('默认尺寸深', 1)</defaultValue>
+      <description></description>
+      <id>60ce0064-3af9-11e8-bb9b-50af736c2359</id>
+      <masked>false</masked>
+      <name>morenchicunshen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('部件区域', 1)</defaultValue>
+      <description></description>
+      <id>7a3aaab4-3af9-11e8-881d-50af736c2359</id>
+      <masked>false</masked>
+      <name>bujianquyu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('材质名称', 1)</defaultValue>
+      <description></description>
+      <id>88d39838-3af9-11e8-b024-50af736c2359</id>
+      <masked>false</masked>
+      <name>caizhimingcheng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('材质描述', 1)</defaultValue>
+      <description></description>
+      <id>a2ad21c0-3af9-11e8-9775-50af736c2359</id>
+      <masked>false</masked>
+      <name>caizhimiaoshu</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('变量EXCEL/零部件管理/衣柜零部件数据').getValue('备注', 1)</defaultValue>
+      <description></description>
+      <id>a528ce2e-3af9-11e8-9f1a-50af736c2359</id>
+      <masked>false</masked>
+      <name>beizhu</name>
+   </variable>
+</TestCaseEntity>
